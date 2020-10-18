@@ -1,0 +1,32 @@
+#header {
+  background: url("my pic.png") center top/ cover no-repeat;
+}
+#header_2 {
+  background: url("second2.jpg") center top/ cover no-repeat;
+}
+.marg {
+  border-bottom: 4px solid red;
+  padding-bottom: 10px;
+}
+.bottomline {
+  border-top: 6px solid gray;
+  clear: both;
+  padding: 3em 10%;
+  color: #fff;
+  background: #134347;
+  text-align: right;
+}
+.img-thumbnail {
+  height: 300px;
+}
+#border {
+  border-bottom: 2px solid red;
+}
+.sidebar {
+  background: purple;
+}
+#flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
